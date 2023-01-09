@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<code><img height="50" alt="C#" src="![image](https://user-images.githubusercontent.com/120026795/211236281-4bfed0de-488b-437f-966b-f429f25cb7b4.png)
-"></code>
+<code><img height="50" alt="C#" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwikies.fandom.com%2Fwiki%2FC_Sharp&psig=AOvVaw3fgLNY8yFfzKSPS8ZH-CNF&ust=1673320577079000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi2hYfDufwCFQAAAAAdAAAAABAF"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
