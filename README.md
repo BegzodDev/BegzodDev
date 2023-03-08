@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
-	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/BegzodDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nwaobidaniel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
