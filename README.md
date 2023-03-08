@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=begzodDev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=begzodDev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="begzodDev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begzodDev&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
 
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
