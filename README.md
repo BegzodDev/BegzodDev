@@ -15,7 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/Jayyp1234/Jayyp1234">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyp1234&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Jayyp1234/Jayyp1234">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayyp1234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Johnpaul's GitHub Stats" />
+</a>
 
+
+
+<!-- Taiwo Uncomment and Change when you are ready -->
+<!-- <a href="https://github.com/TaiwoOluwaseyi/flutter-ui-kits">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaiwoOluwaseyi&repo=flutter-ui-kits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/TaiwoOluwaseyi//pangaea-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaiwoOluwaseyi&repo=pangaea-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   -->
 <a href="https://api.whatsapp.com/send?phone=2349032210788&text=Hello%20Johnpaul,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
