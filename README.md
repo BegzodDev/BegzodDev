@@ -22,12 +22,9 @@
   <img alt="React" src="https://img.shields.io/badge/-ASP.NET-ffb400?style=flat-square&logo=ASP.NET&logoColor=white" />
   
   <img alt="PHP" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="PostgreSql" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-ffb400?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-ffb400?style=flat-square&logo=shell&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 
