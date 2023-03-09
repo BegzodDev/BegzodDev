@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p
 **BegzodDev/BegzodDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,9 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-></p>
 
-
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-ASP.NET-ffb400?style=flat-square&logo=ASP.NET&logoColor=white" />
