@@ -20,7 +20,7 @@
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="PostgreSql" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
