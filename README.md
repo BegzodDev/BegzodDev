@@ -58,23 +58,30 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 
 ## 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <table align="center">
   <tr>
     <td align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api?username=BegzodDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        width="420"
         height="180"
       />
     </td>
     <td align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=tokyonight&hide_border=true"
+        width="420"
         height="180"
       />
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=BegzodDev&theme=tokyonight&hide_border=true"
+        width="850"
         height="180"
       />
     </td>
