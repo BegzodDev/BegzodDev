@@ -58,14 +58,28 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=BegzodDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BegzodDev&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=BegzodDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        height="180"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=tokyonight&hide_border=true"
+        height="180"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=BegzodDev&theme=tokyonight&hide_border=true"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
