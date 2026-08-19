@@ -141,27 +141,16 @@ I believe real growth comes from building things, making mistakes, understanding
 
 <p align="center">
   <a href="https://github.com/BegzodDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bekhzod-qodirboev-a38b0a262">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BegzodDev">
     <img
       src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88"
       alt="GitHub"
     />
   </a>
   <a href="https://www.linkedin.com/in/bekhzod-qodirboev-a38b0a262">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 ---
 
