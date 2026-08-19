@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<h2 align="center">👋 Hi, I'm Begzod</h2>
+<h2 align="center">👋 Hi, I'm Begzod 🚀</h2>
 
 <p align="center">
   🚀 Full-Stack Developer | Angular • TypeScript • C# • .NET
@@ -55,61 +55,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,cs,dotnet,git,github,vscode,postman,figma" />
 </p>
-
-## 🚀 What I'm Working On
-
-* 🔥 Improving my **Angular & TypeScript** skills
-* ⚙️ Learning deeper **C# and .NET**
-* 🏗️ Building real-world applications
-* 🧠 Improving software architecture knowledge
-* 🌱 Creating projects that solve practical problems
-
-<h2>🛠️ Tech Stack</h2>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🎨 Frontend
-
-**Angular** • **TypeScript** • **JavaScript**  
-**RxJS** • **PrimeNG** • **Tailwind CSS**  
-**HTML5** • **CSS3**
-
-</td>
-
-<td valign="top" width="50%">
-
-### ⚙️ Backend
-
-**C#** • **.NET 8** • **ASP.NET Core**  
-**Entity Framework Core** • **REST API**  
-**JWT** • **RabbitMQ**
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-### 🗄️ Database
-
-**PostgreSQL** • **MySQL**
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🏗️ Architecture & DevOps
-
-**Clean Architecture** • **Docker**  
-**Git** • **GitHub** • **CI/CD**  
-**Vercel** • **Railway**
-
-</td>
-</tr>
-</table>
-
 
 ---
 
