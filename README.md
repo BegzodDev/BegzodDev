@@ -8,15 +8,16 @@
 <!-- INTRO -->
 <p align="center">
   <a href="https://github.com/BegzodDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Angular+%7C+TypeScript+%7C+.NET;Building+modern+web+applications+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Angular+%7C+TypeScript+%7C+C%23+%7C+.NET;Building+What%27s+Next+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/BegzodDev">
-    <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=PROFILE%20VIEWS&color=00a86b&style=for-the-badge&labelColor=020403" alt="Profile Views"/>
   </a>
 </p>
+
 
 ---
 
