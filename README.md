@@ -150,18 +150,26 @@ I believe real growth comes from building things, making mistakes, understanding
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,20:06140e,40:0a3d2c,60:000000,80:0a3d2c,100:00ff88&height=120&section=footer"/>
 </p>
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:020a07,65:05261b,85:00b86b,100:00ff88&height=140&section=footer"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:061b14,65:0b5c3f,100:00ff88&height=8&section=footer"
     width="100%"
   />
 </p>
+
+<p align="center">
+  <sub>Building things. Learning constantly. 🚀</sub>
+</p>
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:03140e,75:063d2b,100:00ff88&height=130&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001f14,75:00a86b,100:00ff88&height=100&section=footer"
     width="100%"
   />
 </p>
+
+
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
