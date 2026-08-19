@@ -127,9 +127,6 @@ Modern restaurant management and ordering application.
 </p>
 
 ## 📊 GitHub Analytics
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <table align="center">
   <tr>
     <td align="center">
