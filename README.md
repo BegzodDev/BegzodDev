@@ -1,6 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,20:06140e,40:0a3d2c,60:000000,80:0a3d2c,100:00ff88&height=210&section=header&text=Building%20What%27S%20Next&fontSize=50&fontColor=ffffff&fontFamily=JetBrains%20Mono&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Web%20Engineer&descAlignY=63&descSize=17&descColor=00ff9c" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001f14,75:00a86b,100:00ff88&height=210&section=header&text=Building%20What%27S%20Next&fontSize=50&fontColor=ffffff&fontFamily=JetBrains%20Mono&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Web%20Engineer&descAlignY=63&descSize=17&descColor=00ff88"
+    width="100%"
+  />
 </p>
 
 
@@ -146,21 +149,6 @@ I believe real growth comes from building things, making mistakes, understanding
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,20:06140e,40:0a3d2c,60:000000,80:0a3d2c,100:00ff88&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:061b14,65:0b5c3f,100:00ff88&height=8&section=footer"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <sub>Building things. Learning constantly. 🚀</sub>
-</p>
 
 <p align="center">
   <img
