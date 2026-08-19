@@ -1,6 +1,7 @@
 <!-- HEADER -->
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020202,45:062b1f,75:008f5a,100:00ff88&height=190&section=header&text=Bekhzod%20Qodirboev&fontSize=46&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=64&descSize=17&descColor=8affc1" width="100%" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views"/> </p>
 <!-- INTRO -->
 
 <p align="center">
