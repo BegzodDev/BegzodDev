@@ -160,7 +160,7 @@ CSS Animations • Interactive UI
 </p>
 
 ## 📊 GitHub Analytics
-<!--
+
 <table align="center">
   <tr>
     <td align="center">
@@ -178,34 +178,13 @@ CSS Animations • Interactive UI
       />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=BegzodDev&theme=tokyonight&hide_border=true"
-        width="850"
-        height="180"
-      />
-    </td>
-  </tr>
 </table>
 
--->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BegzodDev&show_icons=true&theme=transparent&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=transparent&hide_border=true"
-    height="165"
-  />
-</p>
 <!-- INTRO 
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BegzodDev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
--->
 
 
 ## 🎯 2026 Goals
@@ -223,6 +202,7 @@ CSS Animations • Interactive UI
 * [ ] Improve system design & architecture
 * [ ] Contribute to open-source
 * [ ] Launch my own web product
+-->
 
 ---
 
