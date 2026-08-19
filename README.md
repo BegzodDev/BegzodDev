@@ -1,14 +1,7 @@
 <!-- HEADER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071a12,75:0b3d2e,100:00ff88&height=250&section=header&text=Begzod%20Qodirboyev&fontSize=48&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Angular%20%7C%20TypeScript%20%7C%20C%23%20%7C%20.NET&descAlignY=58&descSize=19&descColor=9cffc9"
-    width="100%"
-  />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,25:003d2e,50:000000,75:003d2e,100:00ff88&height=250&section=header&text=Begzod%20Boyev&fontSize=48&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Angular%20%7C%20TypeScript%20%7C%20C%23%20%7C%20.NET&descAlignY=58&descSize=19&descColor=9cffc9" width="100%" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views"/> </p>
 <!-- INTRO -->
-
 <p align="center">
   <a href="https://github.com/BegzodDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Angular+%7C+TypeScript+%7C+.NET;Building+modern+web+applications+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing SVG"/>
@@ -17,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/BegzodDev">
-    <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
