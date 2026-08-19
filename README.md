@@ -1,240 +1,55 @@
-<!-- HEADER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001f14,75:00a86b,100:00ff88&height=210&section=header&text=Building%20What%27S%20Next&fontSize=50&fontColor=ffffff&fontFamily=JetBrains%20Mono&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Web%20Engineer&descAlignY=63&descSize=17&descColor=00ff88"
-    width="100%"
-  />
-</p>
+# Hi there, I'm Bekhzod Kodirboev 👋
 
+<div align="center">
 
+### 👨‍💻 Software Engineer / Full-Stack Developer based in Japan 🇯🇵
 
-<!-- INTRO -->
-<p align="center">
-  <a href="https://github.com/BegzodDev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Angular+%7C+TypeScript+%7C+C%23+%7C+.NET;Building+What%27s+Next+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing SVG"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekhzod-qodirboev-a38b0a262)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bekhzod.ou/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailingizni_yozing@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/BegzodDev">
-    <img src="https://komarev.com/ghpvc/?username=BegzodDev&label=PROFILE%20VIEWS&color=00a86b&style=for-the-badge&labelColor=020403" alt="Profile Views"/>
-  </a>
-</p>
-
-
----
-<!-- ABOUT ME -->
-<h2 align="center">👋 Hi, I'm Begzod 🚀</h2>
-
-<p align="center">
-  💻 Full-Stack Developer | Angular • TypeScript • C# • .NET <br>
-  🏗️ Building modern, scalable and user-friendly web applications <br>
-  ⚡ Experienced with REST APIs, Clean Architecture, PostgreSQL, RabbitMQ & Docker <br>
-  📚 Continuously learning and improving as a software engineer
-</p>
-
-<!--
-```text
-💻 Frontend Development
-🚀 Angular & TypeScript
-⚙️ C# & .NET
-🧠 Problem Solving
-📚 Continuous Learning
-🌍 Building for the Real World
-```
--->
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,cs,dotnet,git,github,vscode,postman,figma" />
+### 🚀 About Me
+
+- 🔭 **Hozirda:** Web ilovalar va murakkab tizimlar ustida ishlayapman.
+- 📍 **Joylashuv:** Yaponiya 🇯🇵
+- 🌱 **O'rganmoqdaman:** System Design, TypeScript va Cloud texnologiyalari.
+- 💬 **Menga murojaat qilishingiz mumkin:** JavaScript, React, Node.js va Web Development bo'yicha.
+- ⚡ **Qiziqishlar:** Dasturlash arxitekturasi, yangi texnologiyalarni o'rganish va kod sifatini oshirish.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BegzodDev&show_icons=true&theme=tokyonight&count_private=true" alt="BegzodDev's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=tokyonight" alt="Top Languages" width="47%" />
 </p>
 
 ---
 
-<!-- Projects -->
-## 🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏥 Medical Management System</h3>
-
-<p>
-Full-stack system for managing medical operations and workflows.
-</p>
-
-<p>
-<b>Tech:</b><br>
-C# • .NET 8 • ASP.NET Core Web API • Entity Framework Core • PostgreSQL<br>
-Angular Material • TypeScript • RxJS • PrimeNG  <br>
-Docker • REST API • GitLab
-</p>
-
-<p>
-🔒 <b>Private / Client Project</b>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🚑 Ambulance Management System</h3>
-
-<p>
-Platform for managing ambulance requests, patients and medical workflows.
-</p>
-
-<p>
-<b>Tech:</b><br>
-C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL<br>
-Angular • TypeScript • REST API • JWT • RabbitMQ<br>
-Docker • Clean Architecture • Git • Bitbucket
-</p>
-
-<p>
-🔒 <b>Private / Client Project</b>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🦷 Dental Clinic Management</h3>
-
-<p>
-Management system for patients, appointments, doctors and clinic operations.
-</p>
-
-<p>
-<b>Tech:</b><br>
-C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL<br>
-Angular • TypeScript • Git • PrimeNG • REST API • JWT<br>
-</p>
-
-<p>
-🔒 <b>Private / Client Project</b>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🍽️ Restaurant Website</h3>
-
-<p>
-Modern and responsive cafe website with interactive animations.
-</p>
-
-<p>
-<b>Tech:</b><br>
-HTML5 • CSS3 • JavaScript • Responsive Design<br>
-CSS Animations • Interactive UI
-</p>
-
-<p>
-🔒 <b>Private / Client Project</b>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/BegzodDev/BegzodDev/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=BegzodDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        width="420"
-        height="180"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=tokyonight&hide_border=true"
-        width="420"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- INTRO 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BegzodDev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
-
-## 🎯 2026 Goals
-
-```text
-[████████████████░░░░] Advanced Angular
-[████████████░░░░░░░░] C# / .NET
-[██████████░░░░░░░░░░] Software Architecture
-[████████░░░░░░░░░░░░] Open Source
-[██████░░░░░░░░░░░░░░] Production Projects
-```
-
-* [ ] Master advanced Angular concepts
-* [ ] Build production-ready .NET APIs
-* [ ] Improve system design & architecture
-* [ ] Contribute to open-source
-* [ ] Launch my own web product
-
-
----
-
-## 💡 Development Philosophy
-
-> **Learn → Build → Break → Understand → Improve → Repeat**
-
-I believe real growth comes from building things, making mistakes, understanding why they happened, and improving the next version.
--->
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/BegzodDev">
-    <img
-      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88"
-      alt="GitHub"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/bekhzod-qodirboev-a38b0a262">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-
----
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001f14,75:00a86b,100:00ff88&height=100&section=footer"
-    width="100%"
-  />
-</p>
-
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+### 🤝 Connect with Me
+Agarda qandaydir loyihangiz bo'lsa yoki hamkorlik qilmoqchi bo'lsangiz, bemalol bog'lanishingiz mumkin!
