@@ -65,11 +65,11 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 <tr>
 <td width="50%">
 
-### 🏥 Medical Management System
+<h3>🏥 Medical Management System</h3>
 
-Full-stack medical management platform.
+Full-stack system for managing medical operations and workflows.
 
-**.NET • Angular • PostgreSQL • RabbitMQ • Docker**
+<b>Tech:</b> .NET • Angular • PostgreSQL • RabbitMQ • Docker
 
 <a href="YOUR_GITHUB_LINK">View Project →</a>
 
@@ -77,11 +77,11 @@ Full-stack medical management platform.
 
 <td width="50%">
 
-### 🦷 Dental Clinic System
+<h3>🚑 Ambulance Management System</h3>
 
-Clinic management platform for patients, doctors and appointments.
+Platform for managing ambulance requests, patients and medical workflows.
 
-**.NET • Angular • MySQL**
+<b>Tech:</b> .NET • Angular • PostgreSQL
 
 <a href="YOUR_GITHUB_LINK">View Project →</a>
 
@@ -91,11 +91,11 @@ Clinic management platform for patients, doctors and appointments.
 <tr>
 <td width="50%">
 
-### 🚑 Ambulance Management System
+<h3>🦷 Dental Clinic Management</h3>
 
-System for managing ambulance requests and medical workflows.
+Management system for patients, appointments, doctors and clinic operations.
 
-**.NET • Angular • PostgreSQL**
+<b>Tech:</b> .NET • Angular • MySQL
 
 <a href="YOUR_GITHUB_LINK">View Project →</a>
 
@@ -103,18 +103,17 @@ System for managing ambulance requests and medical workflows.
 
 <td width="50%">
 
-### 🍽️ Restaurant System
+<h3>🍽️ Restaurant Management System</h3>
 
-Modern restaurant management and ordering application.
+Web application for restaurant operations and order management.
 
-**Angular • .NET • PostgreSQL**
+<b>Tech:</b> .NET • Angular • PostgreSQL
 
 <a href="YOUR_GITHUB_LINK">View Project →</a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🐍 Contribution Graph
