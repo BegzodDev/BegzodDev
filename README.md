@@ -23,18 +23,13 @@
 
 
 ---
-
-## 👨‍💻 About Me
-
+<!-- ABOUT ME -->
 <h2 align="center">👋 Hi, I'm Begzod 🚀</h2>
 
 <p align="center">
-  🚀 Full-Stack Developer | Angular • TypeScript • C# • .NET
-  <br>
-  💻 Building modern, scalable and user-friendly web applications
-  <br>
-  🏗️ Experienced with REST APIs, Clean Architecture, PostgreSQL, RabbitMQ & Docker
-  <br>
+  💻 Full-Stack Developer | Angular • TypeScript • C# • .NET <br>
+  🏗️ Building modern, scalable and user-friendly web applications <br>
+  ⚡ Experienced with REST APIs, Clean Architecture, PostgreSQL, RabbitMQ & Docker <br>
   📚 Continuously learning and improving as a software engineer
 </p>
 
