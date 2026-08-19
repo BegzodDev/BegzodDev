@@ -148,6 +148,7 @@ CSS Animations • Interactive UI
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🐍 Contribution Graph
