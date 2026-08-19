@@ -41,15 +41,8 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,cs,dotnet,git,github,vscode,postman,figma" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
 ---
 
 ## 🚀 What I'm Working On
