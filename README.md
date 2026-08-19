@@ -26,11 +26,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer passionate about **building modern web applications and solving real-world problems through code**.
+<h2 align="center">👋 Hi, I'm Begzod</h2>
 
-My main focus is **Angular and TypeScript**, while I'm also expanding my backend knowledge with **C# and .NET**.
-
-I enjoy learning by building real projects, exploring new technologies, and continuously improving my engineering skills.
+<p align="center">
+  🚀 Full-Stack Developer | Angular • TypeScript • C# • .NET
+  <br>
+  💻 Building modern, scalable and user-friendly web applications
+  <br>
+  🏗️ Experienced with REST APIs, Clean Architecture, PostgreSQL, RabbitMQ & Docker
+  <br>
+  📚 Continuously learning and improving as a software engineer
+</p>
 
 ```text
 💻 Frontend Development
