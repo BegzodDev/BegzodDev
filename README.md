@@ -202,7 +202,7 @@ CSS Animations • Interactive UI
 * [ ] Improve system design & architecture
 * [ ] Contribute to open-source
 * [ ] Launch my own web product
--->
+
 
 ---
 
@@ -211,6 +211,7 @@ CSS Animations • Interactive UI
 > **Learn → Build → Break → Understand → Improve → Repeat**
 
 I believe real growth comes from building things, making mistakes, understanding why they happened, and improving the next version.
+-->
 
 ---
 
