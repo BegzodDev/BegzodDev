@@ -60,51 +60,90 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 
 <!-- Projects -->
 ##🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🏥 Medical Management System</h3>
 
+<p>
 Full-stack system for managing medical operations and workflows.
-<b>Tech:</b> C# • .NET 8 • ASP.NET Core Web API • Entity Framework Core • PostgreSQL •
-Angular • TypeScript • RxJS • PrimeNG • JWT • RabbitMQ • Docker • REST API •
-Clean Architecture • Git
-<h4>🔒 Private / Client Project</h4>h4>
+</p>
+
+<p>
+<b>Tech:</b><br>
+C# • .NET 8 • ASP.NET Core Web API • Entity Framework Core • PostgreSQL<br>
+Angular • TypeScript • RxJS • PrimeNG • JWT • RabbitMQ<br>
+Docker • REST API • Clean Architecture • Git
+</p>
+
+<p>
+🔒 <b>Private / Client Project</b>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🚑 Ambulance Management System</h3>
+
+<p>
 Platform for managing ambulance requests, patients and medical workflows.
-<b>Tech:</b> C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL •
-Angular • TypeScript • RxJS • REST API • JWT • RabbitMQ • Docker •
-Clean Architecture • Git
-<h4>🔒 Private / Client Project</h4>h4>
+</p>
+
+<p>
+<b>Tech:</b><br>
+C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL<br>
+Angular • TypeScript • RxJS • REST API • JWT • RabbitMQ<br>
+Docker • Clean Architecture • Git
+</p>
+
+<p>
+🔒 <b>Private / Client Project</b>
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🦷 Dental Clinic Management</h3>
+
+<p>
 Management system for patients, appointments, doctors and clinic operations.
-<b>Tech:</b> C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL •
-Angular • TypeScript • RxJS • PrimeNG • REST API • JWT • Docker •
-Clean Architecture • Git
-<h4>🔒 Private / Client Project</h4>h4>
+</p>
+
+<p>
+<b>Tech:</b><br>
+C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL<br>
+Angular • TypeScript • RxJS • PrimeNG • REST API • JWT<br>
+Docker • Clean Architecture • Git
+</p>
+
+<p>
+🔒 <b>Private / Client Project</b>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🍽️ Restaurant Management System</h3>
-Web application for restaurant operations and order management.
-<b>Tech:</b> HTML5 • CSS3 • JavaScript • Responsive Design • CSS Animations
-<a href="YOUR_GITHUB_LINK">View Project →</a>
+<h3>🍽️ Restaurant Website</h3>
+
+<p>
+Modern and responsive cafe website with interactive animations.
+</p>
+
+<p>
+<b>Tech:</b><br>
+HTML5 • CSS3 • JavaScript • Responsive Design<br>
+CSS Animations • Interactive UI
+</p>
+
+<p>
+<a href="YOUR_GITHUB_LINK">🔗 View Project →</a>
+</p>
 
 </td>
 </tr>
