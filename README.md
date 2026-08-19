@@ -38,6 +38,7 @@
   📚 Continuously learning and improving as a software engineer
 </p>
 
+<!--
 ```text
 💻 Frontend Development
 🚀 Angular & TypeScript
@@ -46,6 +47,7 @@
 📚 Continuous Learning
 🌍 Building for the Real World
 ```
+-->
 
 ---
 
@@ -61,6 +63,53 @@
 * 🏗️ Building real-world applications
 * 🧠 Improving software architecture knowledge
 * 🌱 Creating projects that solve practical problems
+
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎨 Frontend
+
+**Angular** • **TypeScript** • **JavaScript**  
+**RxJS** • **PrimeNG** • **Tailwind CSS**  
+**HTML5** • **CSS3**
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ Backend
+
+**C#** • **.NET 8** • **ASP.NET Core**  
+**Entity Framework Core** • **REST API**  
+**JWT** • **RabbitMQ**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### 🗄️ Database
+
+**PostgreSQL** • **MySQL**
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🏗️ Architecture & DevOps
+
+**Clean Architecture** • **Docker**  
+**Git** • **GitHub** • **CI/CD**  
+**Vercel** • **Railway**
+
+</td>
+</tr>
+</table>
+
 
 ---
 
