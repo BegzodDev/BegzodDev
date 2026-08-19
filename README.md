@@ -57,7 +57,9 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 * 🌱 Creating projects that solve practical problems
 
 ---
-##>🚀 Featured Projects
+
+<!-- Projects -->
+##🚀 Featured Projects
 
 <table>
 <tr>
@@ -113,6 +115,7 @@ Modern restaurant management and ordering application.
 </tr>
 </table>
 
+---
 
 ## 🐍 Contribution Graph
 
@@ -122,7 +125,6 @@ Modern restaurant management and ordering application.
     alt="GitHub Contribution Snake"
   />
 </p>
-
 
 ## 📊 GitHub Analytics
 
@@ -157,12 +159,12 @@ Modern restaurant management and ordering application.
 </table>
 
 
-
-
-/// ## 📈 Contribution Activity
-///<p align="center">
-///  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BegzodDev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-///</p>
+<!-- INTRO 
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BegzodDev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+-->
 
 
 ## 🎯 2026 Goals
