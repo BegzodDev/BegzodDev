@@ -68,22 +68,21 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 <h3>🏥 Medical Management System</h3>
 
 Full-stack system for managing medical operations and workflows.
-
-<b>Tech:</b> .NET • Angular • PostgreSQL • RabbitMQ • Docker
-
-<a href="YOUR_GITHUB_LINK">View Project →</a>
+<b>Tech:</b> C# • .NET 8 • ASP.NET Core Web API • Entity Framework Core • PostgreSQL •
+Angular • TypeScript • RxJS • PrimeNG • JWT • RabbitMQ • Docker • REST API •
+Clean Architecture • Git
+<h4>🔒 Private / Client Project</h4>h4>
 
 </td>
 
 <td width="50%">
 
 <h3>🚑 Ambulance Management System</h3>
-
 Platform for managing ambulance requests, patients and medical workflows.
-
-<b>Tech:</b> .NET • Angular • PostgreSQL
-
-<a href="YOUR_GITHUB_LINK">View Project →</a>
+<b>Tech:</b> C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL •
+Angular • TypeScript • RxJS • REST API • JWT • RabbitMQ • Docker •
+Clean Architecture • Git
+<h4>🔒 Private / Client Project</h4>h4>
 
 </td>
 </tr>
@@ -92,23 +91,19 @@ Platform for managing ambulance requests, patients and medical workflows.
 <td width="50%">
 
 <h3>🦷 Dental Clinic Management</h3>
-
 Management system for patients, appointments, doctors and clinic operations.
-
-<b>Tech:</b> .NET • Angular • MySQL
-
-<a href="YOUR_GITHUB_LINK">View Project →</a>
+<b>Tech:</b> C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL •
+Angular • TypeScript • RxJS • PrimeNG • REST API • JWT • Docker •
+Clean Architecture • Git
+<h4>🔒 Private / Client Project</h4>h4>
 
 </td>
 
 <td width="50%">
 
 <h3>🍽️ Restaurant Management System</h3>
-
 Web application for restaurant operations and order management.
-
-<b>Tech:</b> .NET • Angular • PostgreSQL
-
+<b>Tech:</b> HTML5 • CSS3 • JavaScript • Responsive Design • CSS Animations
 <a href="YOUR_GITHUB_LINK">View Project →</a>
 
 </td>
