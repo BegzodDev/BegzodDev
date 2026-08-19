@@ -59,7 +59,7 @@
 ---
 
 <!-- Projects -->
-##🚀 Featured Projects
+## 🚀 Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -73,8 +73,8 @@ Full-stack system for managing medical operations and workflows.
 <p>
 <b>Tech:</b><br>
 C# • .NET 8 • ASP.NET Core Web API • Entity Framework Core • PostgreSQL<br>
-Angular • TypeScript • RxJS • PrimeNG • JWT • RabbitMQ<br>
-Docker • REST API • Clean Architecture • Git
+Angular Material • TypeScript • RxJS • PrimeNG  <br>
+Docker • REST API • GitLab
 </p>
 
 <p>
@@ -94,8 +94,8 @@ Platform for managing ambulance requests, patients and medical workflows.
 <p>
 <b>Tech:</b><br>
 C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL<br>
-Angular • TypeScript • RxJS • REST API • JWT • RabbitMQ<br>
-Docker • Clean Architecture • Git
+Angular • TypeScript • REST API • JWT • RabbitMQ<br>
+Docker • Clean Architecture • Git • Bitbucket
 </p>
 
 <p>
@@ -117,8 +117,7 @@ Management system for patients, appointments, doctors and clinic operations.
 <p>
 <b>Tech:</b><br>
 C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL<br>
-Angular • TypeScript • RxJS • PrimeNG • REST API • JWT<br>
-Docker • Clean Architecture • Git
+Angular • TypeScript • Git • PrimeNG • REST API • JWT<br>
 </p>
 
 <p>
@@ -161,6 +160,7 @@ CSS Animations • Interactive UI
 </p>
 
 ## 📊 GitHub Analytics
+<!--
 <table align="center">
   <tr>
     <td align="center">
@@ -189,7 +189,17 @@ CSS Animations • Interactive UI
   </tr>
 </table>
 
-
+-->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BegzodDev&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BegzodDev&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+  />
+</p>
 <!-- INTRO 
 ## 📈 Contribution Activity
 <p align="center">
