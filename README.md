@@ -57,6 +57,72 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 * 🌱 Creating projects that solve practical problems
 
 ---
+##>🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Medical Management System
+
+Full-stack medical management platform.
+
+**.NET • Angular • PostgreSQL • RabbitMQ • Docker**
+
+<a href="YOUR_GITHUB_LINK">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🦷 Dental Clinic System
+
+Clinic management platform for patients, doctors and appointments.
+
+**.NET • Angular • MySQL**
+
+<a href="YOUR_GITHUB_LINK">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚑 Ambulance Management System
+
+System for managing ambulance requests and medical workflows.
+
+**.NET • Angular • PostgreSQL**
+
+<a href="YOUR_GITHUB_LINK">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🍽️ Restaurant System
+
+Modern restaurant management and ordering application.
+
+**Angular • .NET • PostgreSQL**
+
+<a href="YOUR_GITHUB_LINK">View Project →</a>
+
+</td>
+</tr>
+</table>
+
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BegzodDev/BegzodDev/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
 
 ## 📊 GitHub Analytics
 
@@ -90,26 +156,14 @@ I enjoy learning by building real projects, exploring new technologies, and cont
   </tr>
 </table>
 
----
 
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/BegzodDev/BegzodDev/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
----
+/// ## 📈 Contribution Activity
+///<p align="center">
+///  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BegzodDev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+///</p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BegzodDev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
 
 ## 🎯 2026 Goals
 
