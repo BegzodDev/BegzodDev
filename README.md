@@ -1,10 +1,11 @@
 <!-- HEADER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,35:06140e,65:0b3d2b,85:00a86b,100:00ff9c&height=180&section=header&text=Bekhzod%20Qodirboev&fontSize=48&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=17&descColor=8dffc9"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:020202,50:062b1f,100:00d26a&height=280&section=header&text=Bekhzod%20Qodirboev&fontSize=46&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=18&descColor=7affb5"
     width="100%"
   />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+modern+web+applications+%F0%9F%9A%80;Angular+%7C+TypeScript+%7C+C%23+%7C+.NET;Turning+ideas+into+real+products;Always+learning.+Always+building." alt="Typing SVG"/>
