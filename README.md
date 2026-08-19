@@ -44,7 +44,6 @@ I enjoy learning by building real projects, exploring new technologies, and cont
 <p>
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,cs,dotnet,git,github,vscode,postman,figma" />
 </p>
----
 
 ## 🚀 What I'm Working On
 
@@ -149,7 +148,7 @@ I believe real growth comes from building things, making mistakes, understanding
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,20:06140e,40:0a3d2c,60:000000,80:0a3d2c,100:00ff88&height=120&section=footer"/>
 </p>
 
 <p align="center">
