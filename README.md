@@ -142,7 +142,7 @@ CSS Animations • Interactive UI
 </p>
 
 <p>
-<a href="YOUR_GITHUB_LINK">🔗 View Project →</a>
+🔒 <b>Private / Client Project</b>
 </p>
 
 </td>
