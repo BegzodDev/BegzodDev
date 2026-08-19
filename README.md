@@ -1,8 +1,12 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Begzod%20Qodirboyev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20%7C%20TypeScript&descAlignY=58&descSize=20" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071a12,75:0b3d2e,100:00ff88&height=250&section=header&text=Begzod%20Qodirboyev&fontSize=48&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Angular%20%7C%20TypeScript%20%7C%20C%23%20%7C%20.NET&descAlignY=58&descSize=19&descColor=9cffc9"
+    width="100%"
+  />
 </p>
+
 
 <!-- INTRO -->
 
