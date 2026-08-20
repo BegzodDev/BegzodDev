@@ -156,6 +156,8 @@ CSS Animations • Interactive UI
   />
 </p>
 
+---
+
 ## 📊 GitHub Analytics
 
 <table align="center">
