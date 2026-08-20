@@ -228,9 +228,6 @@ I believe real growth comes from building things, making mistakes, understanding
   </a>
 </p>
 
-
----
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001f14,75:00a86b,100:00ff88&height=100&section=footer"
